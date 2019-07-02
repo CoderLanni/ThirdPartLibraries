@@ -48,8 +48,7 @@
 
 # 一键合成APP引导页,包含不同状态下的引导页样式
 具有静态页面和 GIF 以及视频的引导页
-
-[](https://github.com/dingding3w/DHGuidePageHUD)
+[引导页样式](https://github.com/dingding3w/DHGuidePageHUD)
 
 ***********************
 
