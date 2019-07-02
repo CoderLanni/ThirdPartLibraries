@@ -25,3 +25,13 @@
 
 # AFNetworking 3.x + 缓存
 [AFNetworking 3.x + 缓存](https://github.com/Suzhibin/ZBNetworking)
+
+
+# 一键合成APP引导页,包含不同状态下的引导页样式
+具有静态页面和 GIF 以及视频的引导页
+[](https://github.com/dingding3w/DHGuidePageHUD)
+
+
+# 新手引导，方便用户快速了解APP各个功能点及位置 
+[提示指导页](https://github.com/Joyce-X/JJLeader)
+![](https://github.com/Joyce-X/JJLeader/raw/master/JJLeader/send.gif?raw=true)
